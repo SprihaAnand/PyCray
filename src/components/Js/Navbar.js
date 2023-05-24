@@ -15,11 +15,11 @@ function Navbar() {
         </div>
 
         <div class="nav-links">
-          <a href="/apidocs">API Docs</a>
+          <a href="/#/apidocs">API Docs</a>
           <a href="/">About us</a>
-          <a href="/faq">FAQ</a>
-          <a href="/tos">Terms of Service</a>
-          <a href="/getstarted">
+          <a href="/#/faq">FAQ</a>
+          <a href="/#/tos">Terms of Service</a>
+          <a href="/#/getstarted">
             <button className="NavButton">Get Started for Free</button>
           </a>
         </div>

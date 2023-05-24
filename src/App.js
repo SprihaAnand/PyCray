@@ -1,6 +1,6 @@
 import "./App.css";
-import ReactDOM from "react-dom/client";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+// import ReactDOM from "react-dom/client";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Js/Navbar";
 import Home from "./components/Js/Home";
 import ApiDocs from "./components/Js/ApiDocs";
@@ -9,7 +9,7 @@ import Faq from "./components/Js/Faq";
 import TermsOS from "./components/Js/TermsOS";
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <Navbar />
       </div>
@@ -20,7 +20,7 @@ function App() {
         <Route path="/faq" element={<Faq />} />
         <Route path="/tos" element={<TermsOS />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
