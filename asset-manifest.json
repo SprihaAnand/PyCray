@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/PyCray/static/css/main.4c9dad4a.css",
-    "main.js": "/PyCray/static/js/main.273e8f43.js",
+    "main.css": "/PyCray/static/css/main.c351a3de.css",
+    "main.js": "/PyCray/static/js/main.3f1175b8.js",
     "static/js/787.e50ff7e5.chunk.js": "/PyCray/static/js/787.e50ff7e5.chunk.js",
     "static/media/blog1.jpg": "/PyCray/static/media/blog1.39ced25c024082b73be4.jpg",
     "static/media/blog3.jpg": "/PyCray/static/media/blog3.943e00af6adf6c442463.jpg",
     "index.html": "/PyCray/index.html",
-    "main.4c9dad4a.css.map": "/PyCray/static/css/main.4c9dad4a.css.map",
-    "main.273e8f43.js.map": "/PyCray/static/js/main.273e8f43.js.map",
+    "main.c351a3de.css.map": "/PyCray/static/css/main.c351a3de.css.map",
+    "main.3f1175b8.js.map": "/PyCray/static/js/main.3f1175b8.js.map",
     "787.e50ff7e5.chunk.js.map": "/PyCray/static/js/787.e50ff7e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c9dad4a.css",
-    "static/js/main.273e8f43.js"
+    "static/css/main.c351a3de.css",
+    "static/js/main.3f1175b8.js"
   ]
 }
