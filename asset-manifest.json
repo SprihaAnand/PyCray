@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/PyCray/static/css/main.4c9dad4a.css",
-    "main.js": "/PyCray/static/js/main.a60fad05.js",
+    "main.js": "/PyCray/static/js/main.6d268f4f.js",
     "static/js/787.e50ff7e5.chunk.js": "/PyCray/static/js/787.e50ff7e5.chunk.js",
     "static/media/blog1.jpg": "/PyCray/static/media/blog1.39ced25c024082b73be4.jpg",
     "static/media/blog3.jpg": "/PyCray/static/media/blog3.943e00af6adf6c442463.jpg",
     "index.html": "/PyCray/index.html",
     "main.4c9dad4a.css.map": "/PyCray/static/css/main.4c9dad4a.css.map",
-    "main.a60fad05.js.map": "/PyCray/static/js/main.a60fad05.js.map",
+    "main.6d268f4f.js.map": "/PyCray/static/js/main.6d268f4f.js.map",
     "787.e50ff7e5.chunk.js.map": "/PyCray/static/js/787.e50ff7e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c9dad4a.css",
-    "static/js/main.a60fad05.js"
+    "static/js/main.6d268f4f.js"
   ]
 }
