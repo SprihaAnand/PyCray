@@ -15,7 +15,7 @@ function Navbar() {
         </div>
 
         <div class="nav-links">
-          <a href="https://sprihaanand.github.io/PyCray/">Home</a>
+          <a href="#/">Home</a>
           <a href="#/apidocs">API Docs</a>
           <a href="#/aboutus">About us</a>
           <a href="#/faq">FAQ</a>
