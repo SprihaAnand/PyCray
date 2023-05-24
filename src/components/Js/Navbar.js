@@ -15,7 +15,7 @@ function Navbar() {
         </div>
 
         <div class="nav-links">
-          <a href="#/">Home</a>
+          <a href="#/home">Home</a>
           <a href="#/apidocs">API Docs</a>
           <a href="#/aboutus">About us</a>
           <a href="#/faq">FAQ</a>
