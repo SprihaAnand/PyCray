@@ -1,0 +1,14 @@
+.heading{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    margin-top: 5rem;
+    font-weight: lighter;
+}
+.heading> h2{
+    font-weight: 500;
+}
+.heading>h4{
+    font-weight: 400;
+}

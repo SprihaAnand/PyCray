@@ -1,0 +1,11 @@
+.terms {
+    font-size: 2rem;
+    font-weight: 200;
+}
+
+.terms_box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

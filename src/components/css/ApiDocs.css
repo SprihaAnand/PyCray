@@ -1,0 +1,32 @@
+
+.hero1 {
+    margin: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.hero1 h1{
+    font-size: 2rem;
+    margin-bottom: .5rem;
+    font-weight: 375;
+   
+}
+
+.hero1 h1 {
+    -webkit-text-stroke: 1px white;
+   
+}
+.heading_docs{
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    font-weight: 300;
+
+}
+
+.testimonial_container{
+    display: flex;
+    flex-direction: row;
+   
+}

@@ -1,0 +1,33 @@
+.testimonials {
+    text-align: center;
+    background-color: #ffffff;
+    color: white;
+    padding: 1rem;
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.container {
+  display: flex;
+   
+} 
+
+.testimonial {
+    flex: 1;
+    padding: 2rem 1rem;
+    color: black;
+    border-radius: 1rem;
+background: rgb(175, 176, 176);
+    background: linear-gradient(0deg, rgba(175, 176, 176, 1) 0%, rgba(255, 255, 255, 1) 40%);
+    text-align: center;
+    font-weight: bold;
+    flex-wrap: wrap;
+    
+
+}
+
+.testimonial p {
+    font-size: 1rem;
+    font-weight: 200;
+    margin-bottom: 0.5rem;
+}
