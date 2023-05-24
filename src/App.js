@@ -7,6 +7,7 @@ import ApiDocs from "./components/Js/ApiDocs";
 import GetStarted from "./components/Js/GetStarted";
 import Faq from "./components/Js/Faq";
 import TermsOS from "./components/Js/TermsOS";
+import AboutUs from "./components/Js/AboutUs";
 function App() {
   return (
     <HashRouter>
@@ -19,6 +20,7 @@ function App() {
         <Route path="/getstarted" element={<GetStarted />} />
         <Route path="/faq" element={<Faq />} />
         <Route path="/tos" element={<TermsOS />} />
+        <Route path="/aboutus" element={<AboutUs />} />
       </Routes>
     </HashRouter>
   );
