@@ -1,3 +1,4 @@
+
 # PyCray
 
 PyCray is a remarkable React project that showcases a demo blog site. This platform serves as an excellent example of how React, HTML, CSS, and JavaScript can seamlessly integrate to create an engaging and user-friendly website. With its intuitive design and diverse set of features, PyCray provides visitors with an immersive experience.
@@ -28,10 +29,11 @@ Overall, PyCray stands as a testament to the power of React and its ability to c
 
 ## Demo
 
-[![Watch the video](https://github.com/SprihaAnand/PyCray/assets/97617046/0e554338-52aa-47a5-bc5d-badb634221cf)](https://github.com/SprihaAnand/PyCray/assets/97617046/0e554338-52aa-47a5-bc5d-badb634221cf)
+[![Watch the video]([https://github.com/SprihaAnand/PyCray/assets/97617046/0e554338-52aa-47a5-bc5d-badb634221cf](https://github.com/SprihaAnand/PyCray/assets/97617046/c8801a41-7c4e-4d53-bfb6-db9cbb92aa95))](https://github.com/SprihaAnand/PyCray/assets/97617046/0e554338-52aa-47a5-bc5d-badb634221cf)
 
 
 ## Deployment
+
 
 To deploy this project run
 
@@ -40,4 +42,7 @@ To deploy this project run
 ```
 ## Feedback
 
-If you have any feedback, please reach out to us at sprihaanand@gmail.com
+If you have
+any feedback, please reach out to us at sprihaanand@gmail.com
+##Thankyou!
+I would like to extend our sincere gratitude for visiting PyCray. Your presence is highly appreciated, and we hope you thoroughly enjoy your time exploring our site. Whether it's delving into captivating blog posts, navigating through our FAQ section, or learning about our team on the 'About Us' page, we encourage you to make the most of your experience. Thank you once again for choosing PyCray, and we look forward to providing you with an exceptional journey through our platform.
