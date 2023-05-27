@@ -29,9 +29,7 @@ Overall, PyCray stands as a testament to the power of React and its ability to c
 
 ## Demo
 
-
-
-[![Watch the video]([https://github.com/SprihaAnand/PyCray/assets/97617046/0e554338-52aa-47a5-bc5d-badb634221cf](https://github.com/SprihaAnand/PyCray/assets/97617046/0e554338-52aa-47a5-bc5d-badb634221cf)))]
+https://github.com/SprihaAnand/PyCray/assets/97617046/3cc19465-4003-4cfc-993c-afbc1cb42628
 
 
 ## Deployment
