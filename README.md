@@ -25,3 +25,8 @@ Overall, PyCray stands as a testament to the power of React and its ability to c
 
 ![App Screenshot](https://github.com/SprihaAnand/PyCray/assets/97617046/05639e0a-c2db-4366-8913-887cb6f96314)
 
+
+## Demo
+
+[![Watch the video](https://github.com/SprihaAnand/PyCray/assets/97617046/0e554338-52aa-47a5-bc5d-badb634221cf)](https://github.com/SprihaAnand/PyCray/assets/97617046/0e554338-52aa-47a5-bc5d-badb634221cf)
+
