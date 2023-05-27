@@ -38,3 +38,6 @@ To deploy this project run
 ```bash
   npm run deploy
 ```
+## Feedback
+
+If you have any feedback, please reach out to us at sprihaanand@gmail.com
