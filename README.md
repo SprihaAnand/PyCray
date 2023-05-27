@@ -30,3 +30,11 @@ Overall, PyCray stands as a testament to the power of React and its ability to c
 
 [![Watch the video](https://github.com/SprihaAnand/PyCray/assets/97617046/0e554338-52aa-47a5-bc5d-badb634221cf)](https://github.com/SprihaAnand/PyCray/assets/97617046/0e554338-52aa-47a5-bc5d-badb634221cf)
 
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
